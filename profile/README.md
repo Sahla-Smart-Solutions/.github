@@ -19,7 +19,7 @@ To deliver technology solutions that simplify lives and enhance productivity, wh
 ## 🤝 Join Our Journey
 We believe in the power of collaboration. Our GitHub repositories are where ideas meet execution. Whether you're a developer, tech enthusiast, or visionary, there's always room for you to contribute or be inspired.
 
-Explore our projects. (We will soon be starting lots of open-source projects)
+Explore & contribute to our projects. (We will soon be starting lots of open-source projects)
 Share feedback.
 Join discussions on our community Discord ([Discord Invite](https://discord.gg/CfD87dj9)).
 
